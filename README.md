@@ -18,4 +18,6 @@ Then go through Model_Training.ipynb as it describes training the model on the q
 Finally, you can test the model using the Test_Model.ipynb file.
 
 You can find the Python package requirements for this project in requirements.txt.
-You can also find supplementary files in the 'supplementary' folder, including the model used and the numpy files describing the quanvolved images. But this uses a truncated version of the Google Speech Commands V1 dataset, which you can find here: https://drive.google.com/file/d/1Qv2FcZ2EAKEFG2N5uz52mpvEAu3LZZSq/view?usp=sharing
+We use a truncated version of the Google Speech Commands V1 dataset, truncated to 10 commands, which you can find here: https://drive.google.com/file/d/1Qv2FcZ2EAKEFG2N5uz52mpvEAu3LZZSq/view?usp=sharing
+
+You can find sample 2x2 quantum convolved images on log power mel spectrograms here: https://drive.google.com/drive/folders/1hEGrWf4J6dvwDuEyLWWbTsJ1sI9r614L?usp=sharing
