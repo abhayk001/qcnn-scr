@@ -24,6 +24,6 @@ You can find sample 2x2 quantum convolved images on log power mel spectrograms h
 
 You can also find the model trained on the above quanvolved images named model_dep.h5
 
-Credit to [Huck Yang](https://github.com/huckiyang/QuantumSpeech-QCNN) as they were the strong base on which this was built. The quantum CNN is also almost the same one used here, therefore, refer to his [paper](https://ieeexplore.ieee.org/abstract/document/9413453) for more insight on this topic.
+Credit to [Huck Yang](https://github.com/huckiyang/QuantumSpeech-QCNN) as they were the strong base on which this was built. The quantum CNN is also pretty much the same one used here, therefore, refer to his [paper](https://ieeexplore.ieee.org/abstract/document/9413453) for more insight on this topic.
 
 Also credit to [Md. Showkat Hossain Chy](https://github.com/showkat2203/Quantum-Network-For-Image-Classification) as this is where we got the classification network. This is a repo for image classification of MNIST using classical and quantum networks. Check it out!
