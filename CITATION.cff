@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Keshavaraju"
+  given-names: "Abhay"
+- family-names: "Gupta"
+  given-names: "Ujjwal"
+- family-names: "Kumar"
+  given-names: "Mayank"
+title: "qcnn-scr"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-05-05
+url: "https://github.com/abhayk001/qcnn-scr"
